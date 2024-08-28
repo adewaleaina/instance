@@ -47,23 +47,5 @@ Outputs:
     Value: !GetAtt myInstance.PublicIp
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Message jjtech-aws-empower-batch
 
 
